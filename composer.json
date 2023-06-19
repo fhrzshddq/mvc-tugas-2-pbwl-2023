@@ -1,0 +1,19 @@
+{
+    "name": "acer/si-mvc",
+    "description": "Tugas 2 PBWL MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "fahreza shiddiq",
+            "email": "fahrezashiddiqsiregar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
